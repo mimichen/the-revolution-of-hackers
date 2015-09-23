@@ -7,5 +7,5 @@
 * [利用程式造福社會](chapter4.md)
 * [網路協作改變世界](chapter5.md)
 * [黑客女孩](chapter6.md)
-* [chapter7](chapter7.md)
+* [貢獻社會才是主流](chapter7.md)
 
