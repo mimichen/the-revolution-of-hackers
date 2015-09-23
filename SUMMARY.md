@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [打造鍵盤革命](chapter1.md)
-* [Second Chapter](secondchapter_md.md)
 * [校園黑客萌芽 各校點子大不同](chapter3.md)
 * [利用程式造福社會](chapter4.md)
 
