@@ -6,5 +6,5 @@
 * [校園黑客萌芽 各校點子大不同](chapter3.md)
 * [利用程式造福社會](chapter4.md)
 * [網路協作改變世界](chapter5.md)
-* [Chapter6](chapter6.md)
+* [黑客女孩](chapter6.md)
 
