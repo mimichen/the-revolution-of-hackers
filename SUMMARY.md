@@ -1,11 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [打造鍵盤革命](chapter1.md)
-* [零時政府誕生](chapter2.md)
-* [校園黑客萌芽 各校點子大不同](chapter3.md)
-* [利用程式造福社會](chapter4.md)
-* [網路協作改變世界](chapter5.md)
-* [黑客女孩](chapter6.md)
-* [貢獻社會才是主流](chapter7.md)
+* [壹、零時政府誕生](CH1.md)
+* [貳、利用程式造福社會](CH2.md)
+* [參、網路協作改變世界](CH3.md)
+* [肆、結語：鍵盤革命 社會改革新契機](CH4.md)
 
