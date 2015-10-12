@@ -8,4 +8,3 @@
 * [網路協作改變世界](chapter5.md)
 * [黑客女孩](chapter6.md)
 * [貢獻社會才是主流](chapter7.md)
-
